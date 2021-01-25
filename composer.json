@@ -1,0 +1,21 @@
+{
+     "config" : {
+         "vendor-dir": "vendor"
+     },
+     "autoload": {
+         "psr-4": {
+            "Source\\": "source/"
+         },
+         "files": [
+             "source/Boot/Config.php",
+             "source/Boot/Helpers.php"
+        ]
+     },
+     "require": {
+         "php": "^7.1",
+         "league/plates": "v4.0.0-alpha",
+         "coffeecode/router":"^1.0",
+         "coffeecode/uploader": "1.0.*",
+         "coffeecode/paginator": "1.0.*"
+     }
+}
