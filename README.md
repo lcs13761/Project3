@@ -34,11 +34,11 @@ The Web calls thme files for display, in addition to being responsible for verif
 
 The image below shows how the content is showing in the home
 
-![home] (/readmeImag/home.png)
+![home](/readmeImag/home.png)
 
 
 And the admin panel
-![painel] (/readmeImag/painel.png)
+![painel](/readmeImag/painel.png)
 
 
 

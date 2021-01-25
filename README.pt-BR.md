@@ -30,11 +30,11 @@ A Web chama os arquivos de thme para exibicao, alem de ser responsavel por verif
 
 A imagem abaixo mostra como estão a exibição do conteudo na home
 
-![home] (/readmeImag/home.png)
+![home](/readmeImag/home.png)
 
 
 E o painel do admin
-![painel] (/readmeImag/painel.png)
+![painel](/readmeImag/painel.png)
 
 
 
